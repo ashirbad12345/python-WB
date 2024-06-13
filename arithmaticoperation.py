@@ -1,0 +1,12 @@
+a=8
+b=4
+sum=a+b
+difference=a-b
+multi=a*b
+mod=a%b
+div=a/b
+print(sum)
+print(difference)
+print(multi)
+print(mod)
+print(div)
